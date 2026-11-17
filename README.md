@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@aldymatindev"><img src="https://img.shields.io/badge/YouTube-@aldymatindev-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.tiktok.com/@aldymatindev"><img src="https://img.shields.io/badge/TikTok-@aldymatindev-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.facebook.com/profile.php?id=61596484671253&sk=reels_tab"><img src="https://img.shields.io/badge/Facebook-Reels-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://lynk.id/aldymatin"><img src="https://img.shields.io/badge/Lynk-aldymatin-000000?logo=linktree&logoColor=white" alt="Lynk"></a>
   <a href="https://ko-fi.com/aldymatindev"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
@@ -15,7 +17,7 @@ I also make daily content about **programming, DevOps and homelab** as **@aldyma
 | Project | What it is | Stack |
 |---|---|---|
 | 💰 **[F2W Cash](https://play.google.com/store/apps/details?id=net.f2w.cash)** | Personal finance & expense tracker for Android, on Google Play | Flutter |
-| 🔄 **WindSync** | Data synchronization app — public release coming soon | — |
+| 🔐 **[WindSync](https://github.com/aldymatindev/windsync)** | SSH terminal for Windows & Android — local vault, SFTP, Linux/Docker monitoring, tmux sessions, optional cloud sync. Free, release coming soon | Windows · Android |
 | 🏪 **Daganta** | POS + inventory for small shops (UMKM) | React · Go |
 
 ### 🛠️ Tech I work with
@@ -33,10 +35,10 @@ I also make daily content about **programming, DevOps and homelab** as **@aldyma
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldyMatin&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldyMatin&theme=tokyonight" height="165" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=aldyMatin&hide_border=true&theme=tokyonight" height="165" alt="GitHub streak">
 </p>
 
 ### 📫 Reach me
 
-Watch tutorials on [YouTube](https://www.youtube.com/@aldymatindev), find all my links on [Lynk](https://lynk.id/aldymatin), or support my work on [Ko-fi](https://ko-fi.com/aldymatindev) ☕
+Watch tutorials on [YouTube](https://www.youtube.com/@aldymatindev), [TikTok](https://www.tiktok.com/@aldymatindev) and [Facebook](https://www.facebook.com/profile.php?id=61596484671253&sk=reels_tab), find all my links on [Lynk](https://lynk.id/aldymatin), or support my work on [Ko-fi](https://ko-fi.com/aldymatindev) ☕
